@@ -55,15 +55,17 @@ p {
 
 .features-roadmap {
   margin: 0 auto;
-  max-width: 300px;
+  max-width: 350px;
 }
 
 .features-list {
   list-style-type: none;
   text-align: left;
+  padding: 0;
 }
 
 .features-list li {
+  margin-bottom: 2px;
   padding-left: 30px;
   position: relative;
 }
